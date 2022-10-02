@@ -1,6 +1,7 @@
 # Lab.1-ECO-II
 Trabajo No.1 de Econometría II. Universidad Centroamericana (UCA)
 Primer trabajo de econometría II por estudiantes de Economía Aplicada (UCA)
+
 Contenido del script:
 
 1.Descomposición estacional del PIB y la Demanda Agregada (trimestres) para Nicaragua (2066-2022)
