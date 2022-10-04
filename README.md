@@ -13,3 +13,5 @@ Contenido del script:
 4.Modelo de regresión Log-Log 
 
 5.Estimación de la función consumo Keynesiana para Nicaragua (2006-2021)
+
+6.Pruebas para validar los supuestos MCO de la función consumo
